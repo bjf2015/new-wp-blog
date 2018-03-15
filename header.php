@@ -31,7 +31,7 @@
     <div class="blog-masthead">
       <div class="container">
         <nav class="blog-nav">
-          <a class="blog-nav-item active" href="#">Home</a>
+          <a class="blog-nav-item active" id="title-links" href="#">Home</a>
           <?php wp_list_pages( "&title_li=" ); ?>
         </nav>
       </div>
@@ -40,6 +40,6 @@
     <div class="container">
 
       <div class="blog-header">
-        <h1 class="blog-title">The Bootstrap Blog</h1>
-        <p class="lead blog-description">The official example template of creating a blog with Bootstrap.</p>
+        <h1 class="blog-title">The Brand New BJF Wordpress Blog</h1>
+        <p class="lead blog-description">Are all you guys named Moseley</p>
       </div>
